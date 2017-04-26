@@ -10,7 +10,7 @@ int main(void)
         float CapteurMax=50;// valeur max (m/s) d'acquisition du capteur
         int VitesseMin=0;
         int VitesseMax=0;
-        float VitesseReel=433;
+        float VitesseReel=450;
         int VitesseNum=0;
         float VitesseA=0;
         float Frequence=0;
