@@ -9,7 +9,7 @@ int main(void)
         float VitesseMaxReel=25;// vitesse (m/s) max de fonctionnement de la pompe (on baisse la fréquence jusqu'à cette valeur, au-delà la pompe est coupée)
         float CapteurMax=50;// valeur max (m/s) d'acquisition du capteur
         int VitesseMin=0;
-        int VitesseMax=1;
+        int VitesseMax=0;
         float VitesseReel=450;
         int VitesseNum=0;
         float VitesseA=0;
